@@ -1,7 +1,8 @@
 # Steven's Profil
 
 ## Über mich
-Hallo, mein Name ist Steven, und ich bin ein gelernter Kaufmann für Spedition und Logistikdienstleistungen. Von August 2006 bis Juli 2009 habe ich in diesem Bereich gearbeitet.
+Hallo, mein Name ist Steven, und ich bin ein gelernter Kaufmann für Spedition und Logistikdienstleistungen. 
+Von August 2006 bis Juli 2009 habe ich in diesem Bereich gelernt und noch Jahre gearbeitet.
 
 ## Weiterbildung
 Derzeit absolviere ich eine Weiterbildung zum **DevOps und Cloud Computing Engineer** bei der **Techstarter GmbH** von Februar 2023 bis Februar 2024.
